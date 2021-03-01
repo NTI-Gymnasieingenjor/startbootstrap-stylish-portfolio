@@ -35,6 +35,6 @@
 
 ## Frameworks
 
-- Bootstrap
+- Bootstrap 4
       
 ### Created using https://github.com/startbootstrap/startbootstrap-stylish-portfolio template
