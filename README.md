@@ -12,7 +12,6 @@
 
 - File name structure: this_is_how (underscore)
 - Variable name structure: camelCase
-- Spaces: Tabs, not spaces. 
 - Comments: English, first letter capitalized. Comment symbol (#) at the beginning of the line, but the comment itself indented the same way as surrounding code.
 
 ## Git Conventions
