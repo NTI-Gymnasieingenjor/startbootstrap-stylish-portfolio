@@ -32,7 +32,9 @@
 
 - HTML
 - CSS
-- Bootstrap Framework
 
+## Frameworks
+
+- Bootstrap
       
 ### Created using https://github.com/startbootstrap/startbootstrap-stylish-portfolio template
